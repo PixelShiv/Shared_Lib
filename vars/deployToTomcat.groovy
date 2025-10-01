@@ -1,6 +1,6 @@
 def call(String warName = "target/*.war", 
          String tomcatUser = "ec2-user", 
-         String tomcatHost = "your.ec2.ip.addr", 
+         String tomcatHost = "18.233.12.45", 
          String tomcatPath = "/opt/tomcat/webapps/", 
          String appName = "app") {
 
